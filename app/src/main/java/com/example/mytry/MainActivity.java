@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
     
     private static final String TAG = "MainActivity";
 
+    //This code defines an Android activity with lifecycle methods and UI setup
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
