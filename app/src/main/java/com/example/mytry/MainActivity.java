@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        //This is how implement the Splash Screen
         SplashScreen.installSplashScreen(this);
         EdgeToEdge.enable(this);
         setContentView(R.layout.activity_main);
