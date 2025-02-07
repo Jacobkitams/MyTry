@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <style name="Theme.MyTry.Splash" parent="Theme.SplashScreen">
+        //this is how i set the white background
         <item name="windowSplashScreenBackground">@color/white</item>
         <item name="windowSplashScreenAnimatedIcon">@drawable/apartment</item>
         <item name="postSplashScreenTheme">@style/Theme.MyTry</item>
